@@ -1,0 +1,13 @@
+<meta>
+    <script src="client.lua" type="client" />
+    
+    <file src="font.ttf" />
+    
+    <export function="dxCreateEdit" type="client" />
+    <export function="dxDestroyEdit" type="client" />
+    <export function="dxGetEditText" type="client" />
+    <export function="dxEditSetText" type="client" />
+    <export function="dxGetActiveEdit" type="client" />
+    <export function="dxSetEditPosition" type="client" />
+    <export function="dxGetEdit" type="client" />
+</meta>
